@@ -1386,8 +1386,8 @@ top: -1px;
 }
 
 .preloader-icon span:last-child {
-  animation-delay: -0.8s;
-  -webkit-animation-delay: -0.8s;
+  animation-delay: -0.2s;
+  -webkit-animation-delay: -0.2s;
 }
 
 @keyframes preloader-fx {
